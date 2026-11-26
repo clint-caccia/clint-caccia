@@ -20,7 +20,7 @@
 | [Auth Log Analyzer](https://github.com/clint-caccia/auth-log-analyzer) | Python CLI that flags brute force, password spraying and suspicious logins in Linux auth logs, mapped to MITRE ATT&CK | Python, regex, pytest, GitHub Actions |
 | [Phishing Email Analyzer](https://github.com/clint-caccia/phishing-email-analyzer) | Scores raw .eml files for phishing red flags (SPF/DKIM/DMARC, lookalike domains, link and attachment tricks) and exports IOCs | Python, email parsing, pytest |
 | [NIST CSF 2.0 Risk Assessment](https://github.com/clint-caccia/nist-csf-risk-assessment) | Scores an organization against the 22 CSF 2.0 categories, builds a risk register and heat map, and ranks which gaps to fix first. Includes a full sample assessment of a fictional dental practice | Python, matplotlib, pytest |
-| [ClearSpend VA](https://github.com/clint-caccia/clearspend-va) | Financial analytics system that surfaces spending trends from public expenditure data | Power BI, Azure SQL, Python, Azure OpenAI |
+| [ClearSpend VA](https://github.com/clint-caccia/clearspend-va) | Cleans 9 million Virginia state agency payments (FY2024-FY2026) into a SQL star schema with year over year, vendor ranking and concentration views, plus a findings report | Python, pandas, SQL, Power BI, Azure SQL |
 | [Columbia Pike Business & Property Database](https://github.com/clint-caccia/columbia-pike-business-database) | Unified database of 2,119 businesses and 13,062 property records from six data sources | Airtable, Arlington County open data |
 | [Intel Sustainability Dashboard](https://github.com/clint-caccia/intel-sustainability-dashboard) | Tableau dashboards turning environmental performance data into executive-level insights | Tableau |
 
