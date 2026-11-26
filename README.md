@@ -27,4 +27,4 @@
 
 ## 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/clint-caccia-b70428354)
+[Portfolio](https://clint-caccia.github.io) · [LinkedIn](https://www.linkedin.com/in/clint-caccia-b70428354)
